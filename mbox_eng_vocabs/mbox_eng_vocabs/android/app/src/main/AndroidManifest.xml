@@ -2,9 +2,10 @@
     <application
         android:label="mbox_eng_vocabs"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
+            android:label="MinBox Eng Vocabs"
             android:exported="true"
             android:launchMode="singleTop"
             android:taskAffinity=""

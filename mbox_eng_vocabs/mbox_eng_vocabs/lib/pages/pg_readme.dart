@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mbox_eng_vocabs/controls/ctrl_app_end_drawer.dart';
 
 class PgReadMe extends StatelessWidget {
   const PgReadMe({super.key});   
@@ -25,6 +26,7 @@ class PgReadMe extends StatelessWidget {
       appBar: AppBar(
         title: const Text('MinBox: English Vocabularies'),
       ),
+      endDrawer: const CtrlAppEndDrawer(),
       body: SingleChildScrollView(
         child: Padding(
           padding: EdgeInsets.all(16.0),
