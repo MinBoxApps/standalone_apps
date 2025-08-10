@@ -285,7 +285,7 @@ class _PgFlashcardsWidgetState extends State<PgFlashcardsWidget> {
   int _incorrectCount = 0;
   final scaffoldKey = GlobalKey<ScaffoldState>();
   List<MWord> _words = [];
-  String _header = 'C1/C2 Vocabularies - Browse';
+  String _header = 'English Vocabularies - Browse';
 
   @override
   void initState() {
@@ -306,7 +306,7 @@ class _PgFlashcardsWidgetState extends State<PgFlashcardsWidget> {
     if (widget.shuffleCards) {
       _words.shuffle();
       setState(() {
-        _header = 'C1/C2 Vocabularies - Random';
+        _header = 'English Vocabularies - Random';
       });
     } else {
       _words.sort((a, b) => a.word.compareTo(b.word));

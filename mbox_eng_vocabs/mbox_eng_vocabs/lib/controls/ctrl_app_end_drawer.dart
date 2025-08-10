@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mbox_eng_vocabs/pages/pg_landing.dart';
+import 'package:mbox_eng_vocabs/pages/pg_readme.dart';
 import 'package:provider/provider.dart';
 import 'package:mbox_eng_vocabs/themes/theme_selector.dart'; 
 
@@ -37,6 +38,20 @@ class CtrlAppEndDrawer extends StatelessWidget {
             },
           ),
           // Add more list tiles for other settings/navigation
+          const Divider(),
+          ListTile(
+            title: const Text('Read Me'),
+            onTap: () {
+              Navigator.pushReplacement(
+                context,
+                MaterialPageRoute(builder: (context) => const PgReadMe()),
+              );
+            },
+          ),
+          const Divider(),
+          ListTile(
+            title: const Text('Version 1.0')
+          ),
           const Divider(),
           ListTile(
             title: const Text('Home'),

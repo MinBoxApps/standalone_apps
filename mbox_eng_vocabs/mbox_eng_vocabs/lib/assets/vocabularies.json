@@ -1,20 +1,1002 @@
 [
-    {
-      "id": "cynical",
-      "word": "cynical",
-      "pronunciation": "/'sɪnɪkl/",
-      "definition": "believing that people only do things to help themselves rather than for good or honest reasons",
-      "definitionm": "လူတွေဟာ ရိုးသားခြင်း၊ ကောင်းမွန်ခြင်းထက် ကိုယ်အဆင်ပြေဖို့ကိုပဲ အဓိကကြည့်တာလို့ ယုံကြည်ယူဆသော။",
-      "example": "He is cynical about love.",
-      "examplem": "သူက ချစ်ခြင်းမေတ္တာတရားနဲ့ ပတ်သက်ပြီး အယုံအကြည်ကင်းမဲ့တယ်၊ အဆိုးမြင်တယ်။"
-    },
-    {
-      "id": "mammoth",
-      "word": "mammoth",
-      "pronunciation": "/ˈmæməθ/",
-      "definition": "noun: an animal like a large elephant covered with hair, that lived thousands of years ago and is now extinct; adjective: huge;",
-      "definitionm": "နာမ် - မျိုးသုဥ်းသွားပြီ ဖြစ်သော အမွေးရှည်ဆင်ကြီးတမျိုး။ နာမဝိသေသန - အလွန်ကြီးသော။",
-      "example": "This country has a mammoth drug problem.",
-      "examplem": "ဒီတိုင်းပြည်က မူးယစ်ဆေးနဲ့ပတ်သက်တဲ့ ပြဿနာကြီး ရှိတယ်။"      
-    }
-  ]
+  {
+      "id": "abstain_v",
+      "word": "abstain (v)",
+      "pronunciation": "/əbˈsteɪn/",
+      "level": "C1/C2",
+      "definition": "to hold oneself back voluntarily; to refrain from casting one's vote;",
+      "definitionm": "တခုခုကို မလုပ်ဘဲနေဖြစ်အောင် မိမိကိုယ်ကို ချုပ်ထိန်းသည်။ မဲမပေးဘဲ နေသည်။",
+      "example": "He took a vow to abstain from alcohol.",
+      "examplem": "အရက်သေစာမသောက်ဖို့ သူအဓိဌာန်ပြုခဲ့တယ်။"
+  },
+  {
+      "id": "abuse_v",
+      "word": "abuse (v)",
+      "pronunciation": "/əˈbjuːs/",
+      "level": "C1/C2",
+      "definition": "the use of something in a way that is wrong or harmful; unfair or cruel treatment; rude and offensive remarks;",
+      "definitionm": "အလွဲသုံးစားပြုခြင်း။ မမျှမတဆက်ဆံခြင်း။ နှိပ်စက်ခြင်း။ ရင့်သီးစွာ ပြောဆိုခြင်း။",
+      "example": "Many children suffer racial abuse at school.",
+      "examplem": "ကလေးများစွာသည် ကျောင်းတွင် လူမျိုးရေးခွဲခြားကာမမျှမတပြောဆိုဆက်ဆံခြင်းကို တွေ့ကြုံခံစားကြရသည်။"
+  },
+  {
+      "id": "adhere_v",
+      "word": "adhere (v)",
+      "pronunciation": "/ədˈhɪə(r)/",
+      "level": "C1/C2",
+      "definition": "to stick to something",
+      "definitionm": "ကပ်သည်။ လိုက်နာစောင့်ထိန်းသည်။",
+      "example": "We adhere to the contract.",
+      "examplem": "ကျွန်တော်တို့ စာချုပ်အတိုင်း လုပ်ကြမယ်။"
+  },
+  {
+      "id": "adolescent_n",
+      "word": "adolescent (n)",
+      "pronunciation": "/ˌædəˈlesnt/",
+      "level": "C1/C2",
+      "definition": "a young person who is between being a child and an adult",
+      "definitionm": "ကလေးလည်းမဟုတ်တော့၊ အရွယ်လည်းမရောက်သေးသော လူငယ်အရွယ် (ဆယ်ကျော်သက်လိုအရွယ်)။",
+      "example": "You are adolescent — not a child anymore, but not yet an adult.",
+      "examplem": "မင်းဟာ လူငယ်တယောက်၊​ ကလေးတယောက်မဟုတ်ဘူး ဒါပေမယ့် လူကြီးလည်း မဖြစ်သေးဘူး။"
+  },
+  {
+      "id": "adverse_adj",
+      "word": "adverse (adj)",
+      "pronunciation": "/ˈædvɜːs/ or /ədˈvɜːs/",
+      "level": "C1/C2",
+      "definition": "unpleasant; unfavourable;",
+      "definitionm": "သက်ရောက်မှုမကောင်းသော။ အကျိုးမပြုသော။",
+      "example": "The match was cancelled due to adverse weather conditions.",
+      "examplem": "ရာသီဥတုမကောင်းလို့ ပွဲကို ဖျက်လိုက်တယ်။"
+  },
+  {
+      "id": "advocate_v",
+      "word": "advocate (v)",
+      "pronunciation": "/ˈædvəkət/",
+      "level": "C1/C2",
+      "definition": "to speak or write in favor of; to support or recommend publicly;",
+      "definitionm": "လူသိရှင်ကြားထောက်ခံသည်။ ရှေ့နေလိုက်ပြောဆိုပေးသည်။",
+      "example": "I do not advocate using drugs for relaxing.",
+      "examplem": "အနားယူဖို့အတွက် မူးယစ်ဆေးသုံးတာကို ကျွန်တော်မထောက်ခံဘူး။"
+  },
+  {
+      "id": "albeit_conj",
+      "word": "albeit (conj)",
+      "pronunciation": "/ˌɔːlˈbiːɪt/",
+      "level": "C1/C2",
+      "definition": "although; even if;",
+      "definitionm": "သို့သော်ငြားလည်း။ သို့စဥ်တိုင်။",
+      "example": "She accepted the offer, albeit with some hesitation.",
+      "examplem": "နည်းနည်းတွေဝေတွန့်ဆုတ်ပေမယ့် သူမက ကမ်းလှမ်းချက်ကိုတော့ လက်ခံလိုက်တယ်။"
+  },
+  {
+      "id": "arable_adj",
+      "word": "arable (adj)",
+      "pronunciation": "/ˈærəbl/",
+      "level": "C1/C2",
+      "definition": "suitable for farming",
+      "definitionm": "စိုက်ပျိုးမြေအဖြစ် အသုံးပြု၍ ရသော။",
+      "example": "He has a few acres of arable land.",
+      "examplem": "သူ့မှာ စိုက်ပျိုးလို့ရတဲ့ မြေဧကတချို့ ရှိတယ်။"
+  },
+  {
+      "id": "baste_v",
+      "word": "baste (v)",
+      "pronunciation": "/beɪst/",
+      "level": "C1/C2",
+      "definition": "to moisten food while cooking (e.g. with butter); to sew with long, loose stiches to hold something in place temporarily;",
+      "definitionm": "ချက်နေဆဲ အစားအသောက်ထဲ အဆီ၊ အရည်လောင်းထည့်သည်။ အဝတ်ကို ခဏမြဲအောင် သီချုပ်သည်။",
+      "example": "You need to baste the chicken with lime or lemon.",
+      "examplem": "ကြက်သားထဲကို သံပရို ဒါမှမဟုတ် သံပုရာရည် လောင်းပေးဖို့ လိုမယ်။"
+  },
+  {
+      "id": "bedsit_n",
+      "word": "bedsit (n)",
+      "pronunciation": "/ˈbedsɪt/",
+      "level": "C1/C2",
+      "definition": "a room that a person rents to live and sleep in",
+      "definitionm": "အိပ်ရန်၊ နေထိုင်ရန် ငှားထားသောအခန်း။",
+      "example": "My bedsit has a small kitchen, but I do have to share a bathroom with others.",
+      "examplem": "ငါ့အခန်းက မီးဖိုချောင်သေးသေးလေးပါတယ်၊ ဒါပေမယ့် ရေချိုးခန်းကတော့ သူများတွေနဲ့ မျှသုံးရတယ်။"
+  },
+  {
+      "id": "beneficiary_n",
+      "word": "beneficiary (n)",
+      "pronunciation": "/ˌbenɪˈfɪʃəri/",
+      "level": "C1/C2",
+      "definition": "a person who gains benefits",
+      "definitionm": "အကျိုးခံစားခွင့်ရသူ။",
+      "example": "He was the sole beneficiary of his father's will.",
+      "examplem": "သူ့အဖေရဲ့ သေတမ်းစာမှာ သူဟာ တဦးတည်းသော အကျိုးခံစားခွင့်ရသူ ဖြစ်တယ်။"
+  },
+  {
+      "id": "bland_adj",
+      "word": "bland (adj)",
+      "pronunciation": "/blænd/",
+      "level": "C1/C2",
+      "definition": "pleasantly gentle; mild; tasteless; lacking in special interest, liveliness, etc.;",
+      "definitionm": "ယဥ်ကျေးသော။ အရသာ ဖွယ်သော။ ထူးမခြားနားဖြစ်သော။",
+      "example": "The soup is too bland for me.",
+      "examplem": "ဟင်းချိုက ကျုပ်အတွက်တော့ ပေါ့ပျက်ပျက်နိုင်လွန်းတယ်။"
+  },
+  {
+      "id": "bushwhack_v",
+      "word": "bushwhack (v)",
+      "pronunciation": "/ˈbʊʃwæk/",
+      "level": "C1/C2",
+      "definition": "to live or travel in wild country; to cut your way through bushes, plants, etc. in wild country;",
+      "definitionm": "တောထဲတောင်ထဲ ခရီးသွားသည်။ တောထဲတောင်ထဲ အပင်များကို ရှင်းလင်းခုတ်ထွင် လမ်းကြောင်းဖော်ရင်းခရီးသွားသည်။",
+      "example": "We have to bushwhack through undergrowth.",
+      "examplem": "ငါ့တို့ဟာ ချုံနွယ်ပိတ်ပေါင်းတွေကို ခုတ်ထွင်ရှင်းလင်းပြီးသွားရမယ်။"
+  },
+  {
+      "id": "canopy_n",
+      "word": "canopy (n)",
+      "pronunciation": "/ˈkænəpi/",
+      "level": "C1/C2",
+      "definition": "an ornamental, rooflike projection or covering",
+      "definitionm": "မျက်နှာကျက်ပုံစံ ပေါင်းမိုးအုပ်ဆောင်း။",
+      "example": "The trees form a canopy over the yard.",
+      "examplem": "ခြံဝန်းထက်မှာတော့ သစ်ပင်တွေဟာ အမိုးလိုအုပ်ဆိုင်းနေတယ်။"
+  },
+  {
+      "id": "casualty_n",
+      "word": "casualty (n)",
+      "pronunciation": "/ˈkæʒuəlti/",
+      "level": "C1/C2",
+      "definition": "a serious accident; a person who is injured or killed in an accident;",
+      "definitionm": "ဆိုးရွားသော မတော်တဆမှု။ မတော်တဆမှုတွင် ခံရသူ၊ ခံရသည့်အရာ၊ ဒဏ်ရာရသူ သို့မဟုတ် သေဆုံးသူ။",
+      "example": "The houses are a casualty of the forest fire.",
+      "examplem": "အိမ်တွေဟာ တောမီးထဲပါကုန်တယ်။"
+  },
+  {
+      "id": "chintz_n",
+      "word": "chintz (n)",
+      "pronunciation": "/tʃɪnts/",
+      "level": "C1/C2",
+      "definition": "a printed cotton fabric used especially for draperies",
+      "definitionm": "စာပွဲခင်း၊ လိုက်ကာစသည်ဖြင့် အသုံးပြုသော ပွင့်ရိုက်ချည်ထည်။",
+      "example": "The chairs are covered with chintz.",
+      "examplem": "ကုလားထိုင်တွေကို အပွင့်ရိုက်အစတွေနဲ့ ခင်းထားတယ်။"
+  },
+  {
+      "id": "collude_v",
+      "word": "collude (v)",
+      "pronunciation": "/kəˈluːd/",
+      "level": "C1/C2",
+      "definition": "to work together secretly for something illegal or dishonest",
+      "definitionm": "မကောင်းမှုတခုခုကို တိတ်တဆိတ်ပူးပေါင်း ကြံစည်အားထုတ်သည်။",
+      "example": "I refused to collude with them.",
+      "examplem": "သူတို့နဲ့ ပေါင်းပြီးမဟုတ်တာလုပ်ဖို့ ကျွန်တော်ငြင်းခဲ့တယ်။"
+  },
+  {
+      "id": "complicit_adj",
+      "word": "complicit (adj)",
+      "pronunciation": "/kəmˈplɪsɪt/",
+      "level": "C1/C2",
+      "definition": "choosing to be involved in an illegal or questionable act, especially with others",
+      "definitionm": "(မကောင်းမှုတခုခုတွင်) ကြံရာပါဖြစ်သော။",
+      "example": "He is complicit in the cover-up.",
+      "examplem": "ထိန်ချန်ဖုံးကွယ်မှုမှာ သူက ကြံရာပါပဲ။"
+  },
+  {
+      "id": "decisive_adj",
+      "word": "decisive (adj)",
+      "pronunciation": "/dɪˈsaɪsɪv/",
+      "level": "C1/C2",
+      "definition": "determined; crucial or most important;",
+      "definitionm": "တိကျပြတ်သားသော။ အလွန်အရေးပါသော။",
+      "example": "She is playing a decisive role in this negotiation.",
+      "examplem": "ဒီဆွေးနွေးညှိနှိုင်းမှုမှာ သူမဟာ အရေးပါတဲ့ အခန်းပါတဲ့အခန်းကဏ္ဍက ပါဝင်နေတာဖြစ်တယ်။"
+  },
+  {
+      "id": "defy_v",
+      "word": "defy (v)",
+      "pronunciation": "/dɪˈfaɪ/",
+      "level": "C1/C2",
+      "definition": "to resist boldly; to challenge;",
+      "definitionm": "အာခံသည်။ ဖီဆန်သည်။ စိန်ခေါ်သည်။",
+      "example": "The students defied the principal's order.",
+      "examplem": "ကျောင်းသားတွေဟာ ကျောင်းအုပ်ကြီးရဲ့ အမိန့်ကို ဖီဆန်ခဲ့ကြတယ်။"
+  },
+  {
+      "id": "dilapidated_adj",
+      "word": "dilapidated (adj)",
+      "pronunciation": "/dɪˈlæpɪdeɪtɪd/",
+      "level": "C1/C2",
+      "definition": "old and in very bad condition",
+      "definitionm": "ဟောင်းနွမ်းလွန်းပြီး သုံးမရသလောက် ဖြစ်နေသော။",
+      "example": "Beside the river, there is a dilapidated fort.",
+      "examplem": "မြစ်ဘေးမှာ သုံးမရအောင်ဟောင်းနေတဲ့ ခံတပ်ကြီးရှိတယ်။"
+  },
+  {
+      "id": "endorse_v",
+      "word": "endorse (v)",
+      "pronunciation": "/ɪnˈdɔːs/",
+      "level": "C1/C2",
+      "definition": "to approve or support publicly",
+      "definitionm": "ထောက်ခံချက်ပေးသည်။",
+      "example": "I'd like to endorse this book as a must-read.",
+      "examplem": "ဒီစာအုပ်ကို မဖြစ်မနေဖတ်ရမယ့်စာအုပ်လို့ ညွှန်းချင်ပါတယ်။"
+  },
+  {
+      "id": "eptaph_n",
+      "word": "epitaph (n)",
+      "pronunciation": "/ˈepɪtɑːf/",
+      "level": "C1/C2",
+      "definition": "a commemorative inscription on a tomb; writing in praise of a deceased person;",
+      "definitionm": "အုတ်ဂူပေါ် ရေးထိုးထားသောစာ။ သေဆုံးသွားသူ တယောက်အကြောင်း ဖွဲ့နွဲ့ရေးထားသော စာပေလက်ရာ။",
+      "example": "I want this line as my epitaph.",
+      "examplem": "ကျွန်တော် ဒီစာတန်းကို ကျွန်တော့်အုတ်ဂူမှာထိုးချင်တယ်။"
+  },
+  {
+      "id": "epithet_n",
+      "word": "epithet (n)",
+      "pronunciation": "/ˈepɪθet/",
+      "level": "C1/C2",
+      "definition": "any word or phrase applied to a person or thing to describe a quality",
+      "definitionm": "(ကောင်းသော / ဆိုးသော) ဝိသေသ ဂုဏ်ထူး။",
+      "example": "He really deserves the epithet 'the greate scientist'. ",
+      "examplem": "သူဟာ 'အတော်ဆုံးသိပ္ပံပညာရှင်'ဆိုတဲ့ ဂုဏ်ပုဒ်နဲ့ တကယ်ထိုက်တန်ပါတယ်။"
+  },
+  {
+      "id": "exacerbate_v",
+      "word": "exacerbate (v)",
+      "pronunciation": "/ɪɡˈzæsəbeɪt/",
+      "level": "C1/C2",
+      "definition": "to worsen; to aggravate;",
+      "definitionm": "ပိုမိုဆိုးရွားစေသည်။",
+      "example": "Asking him to calm down will exacerbate the situation.",
+      "examplem": "သူ့ကို စိတ်အေးအေးထားဖို့ ပြောတာက အခြေအနေကိုပိုဆိုးစေလိမ့်မယ်။"
+  },
+  {
+      "id": "exile_n",
+      "word": "exile (n)",
+      "pronunciation": "/ˈeksaɪl/ or  /ˈeɡzaɪl/",
+      "level": "C1/C2",
+      "definition": "the state of being sent to live in a foreign country as a punishment",
+      "definitionm": "ပြည်နှင်ဒဏ်ခံရခြင်း။",
+      "example": "He went into exile to escape political imprisonment.",
+      "examplem": "နိုင်ငံရေးအမှုနဲ့ ထောင်ကျတာကနေ ရှောင်ရှားနိုင်ဖို့ သူဟာ တိုင်းပြည်ကနေထွက်ခွာခဲ့တယ်။"
+  },
+  {
+      "id": "fluctuate_v",
+      "word": "fluctuate (v)",
+      "pronunciation": "/ˈflʌktʃueɪt/",
+      "level": "C1/C2",
+      "definition": "to change continually; to vary irregularly;",
+      "definitionm": "မကြာခဏ တက်လိုက်ကျလိုက် နည်းလိုက်များလိုက်စသည်ဖြင့် ပုံမှန်မရှိ ပြောင်းလဲသည်။",
+      "example": "The price of this stock is fluctuating too much.",
+      "examplem": "ဒီကုန်စည်ရဲ့ ဈေးက အရမ်းအတက်အကျဖြစ်နေတယ်။"
+  },
+  {
+      "id": "frantic_adj",
+      "word": "frantic (adj)",
+      "pronunciation": "/ˈfræntɪk/",
+      "level": "C1/C2",
+      "definition": "marked by fast and nervous, disordered, or anxiety-driven activity ",
+      "definitionm": "ကသုတ်ကရက်နိုင်သော။ ပျာယာခတ်သော။",
+      "example": "Take a deep breath to keep your frantic emotions under control.",
+      "examplem": "ခင်ဗျားရဲ့ ယောက်ယက်ခတ်နေတဲ့ စိတ်တွေကို ထိန်းနိုင်ဖို့ အသက်ကို ပြင်းပြင်းရှူပါ။"
+  },
+  {
+      "id": "fringe_n",
+      "word": "fringe (n)",
+      "pronunciation": "/frɪndʒ/",
+      "level": "C1/C2",
+      "definition": "a decorative border of thread, cord, or the like, usually hanging loosely from a raveled edge or separate strip",
+      "definitionm": "ကလနား။ ပန်းဖွား။ (ဆံပင်) ဆံမြိတ်။",
+      "example": "She changes her hair style quite often, but always has a fringe.",
+      "examplem": "သူမက ဆံပင်ပုံကို မကြာမကြာပြောင်းတယ်၊ ဒါပေမယ့် ဆံမြိတ်ကတော့ အမြဲချတယ်။"
+  },
+  {
+      "id": "frontier_n",
+      "word": "frontier (n)",
+      "pronunciation": "/ˈfrʌntɪə(r)/",
+      "level": "C1/C2",
+      "definition": "a line that separates two countries, etc.; the land near this line;",
+      "definitionm": "နယ်စပ်။ နယ်စပ်ဒေသ။",
+      "example": "This is the frontier where the two countries fight often.",
+      "examplem": "ဒီီနေရာက နှစ်နိုင်ငံ​မကြာခဏ တိုက်ပွဲဖြစ်တဲ့ နယ်စပ်နေရာပဲ။"
+  },
+  {
+      "id": "gasp_n_v",
+      "word": "gasp (n / v)",
+      "pronunciation": "/ɡɑːsp/ ",
+      "level": "C1/C2",
+      "definition": "a sudden, short intake of breath, as in shock or surprise; to do such a breath;",
+      "definitionm": "ပင့်သက် ရှိုက်ငင်ခြင်း။ (ကြိယာအဖြစ်လည်း သုံးသည်။)",
+      "example": "She gasps from the pain.",
+      "examplem": "သူမဟာ နာကျင်မှုကြောင့် အသက်ကိုမနည်းရှူနေရတယ်။"
+  },
+  {
+      "id": "ginger_n",
+      "word": "ginger (n)",
+      "pronunciation": "/ˈdʒɪndʒə(r)/",
+      "level": "C1/C2",
+      "definition": "a having a pungent, spicy rhizome used in cooking and medicine; a light orange-brown colour;",
+      "definitionm": "ဂျင်း။ လိမ္မော်ညိုရောင်အဖျော့။",
+      "example": "I love the ginger cats.  ",
+      "examplem": "ကျွန်တော်က ကြောင်ဝါဝါလေးတွေကို ချစ်တယ်။"
+  },
+  {
+      "id": "glare_v",
+      "word": "glare (v)",
+      "pronunciation": "/ɡleə(r)/",
+      "level": "C1/C2",
+      "definition": "to look at somebody/something in an angry way",
+      "definitionm": "စိတ်ဆိုးမာန်ဆိုး စူးစူးရဲရဲ ကြည့်သည်။",
+      "example": "She lifts her head and glares at him.",
+      "examplem": "သူမက ခေါင်းကို မော့လိုက်ပြီး သူ့ကို စူးစူးရဲရဲကြည့်လိုက်တယ်။"
+  },
+  {
+      "id": "grasp_v",
+      "word": "grasp (v)",
+      "pronunciation": "/ɡrɑːsp/",
+      "level": "C1/C2",
+      "definition": "to take a strong hold;",
+      "definitionm": "ဖမ်းဆွဲဆုပ်ကိုင်သည်။",
+      "example": "When you grasp the rope, I will pull you up.",
+      "examplem": "မင်းကြိုးကို ဖမ်းဆုပ်လိုက်တဲ့အခါ ငါမင်းကို ဆွဲတင်မယ်။"
+  },
+  {
+      "id": "grim_adj",
+      "word": "grim (adj)",
+      "pronunciation": "/ɡrɪm/",
+      "level": "C1/C2",
+      "definition": "worrying and bad; serious; ill;",
+      "definitionm": "ဆိုးသော။ အခြေအနေမကောင်းသော။ တင်းမာခက်ထန်သော။ နေသာထိုင်သာ မရှိသော။",
+      "example": "The future looks grim.",
+      "examplem": "အနာဂတ်ဟာ အခြေအနေကောင်းပုံမရဘူး။"
+  },
+  {
+      "id": "hazardous_adj",
+      "word": "hazardous (adj)",
+      "pronunciation": "/ˈhæzədəs/",
+      "level": "C1/C2",
+      "definition": "dangerous;",
+      "definitionm": "အန္တရာယ်များသော။",
+      "example": "The pay is good, but the workplace is hazardous.",
+      "examplem": "လုပ်အားခကတော့ ကောင်းတယ်၊​ ဒါပေမယ့် အလုပ်လုပ်ရတဲ့ နေရာက အန္တရာယ်များတယ်။"
+  },
+  {
+      "id": "hotelier_n",
+      "word": "hotelier (n)",
+      "pronunciation": " /həʊˈteliə(r)/ or /həʊˈtelieɪ/",
+      "level": "C1/C2",
+      "definition": "a person who owns or manages a hotel",
+      "definitionm": "​ဟိုတယ်ပိုင်ရှင်။ ဟိုတယ်မန်နေဂျာ။",
+      "example": "He is an experienced hotelier.",
+      "examplem": "သူဟာ အတွေ့အကြုံရှိတဲ့ ဟိုတယ်မန်နေဂျာတယောက်ပါ။"
+  },
+  {
+      "id": "hound_n",
+      "word": "hound (n)",
+      "pronunciation": "/haʊnd/",
+      "level": "C1/C2",
+      "definition": "a dog trained to pursue game either by sight or scent",
+      "definitionm": "အမဲလိုက်ခွေး။",
+      "example": "I've got nothing but a hound dog.",
+      "examplem": "ငါ့မှာ အမဲလိုက်ခွေးတကောင်ကလွဲပြီး ဘာမှမရှိဘူး။"
+  },
+  {
+      "id": "immense_adj",
+      "word": "immense (adj)",
+      "pronunciation": "/ɪˈmens/",
+      "level": "C1/C2",
+      "definition": "​extremely large or great",
+      "definitionm": "အလွန်ကြီးမားသော။ အလွန်သိသာထင်ရှားသော။",
+      "example": "The city is famous for its immense libraries.",
+      "examplem": "မြို့တော်ကြီးဟာ စာကြည့်တိုက်အကြီးကြီးတွေအတွက် နာမည်ကျော်တယ်။"
+  },
+  {
+      "id": "imminent_adj",
+      "word": "imminent (adj)",
+      "pronunciation": "/ˈɪmɪnənt/",
+      "level": "C1/C2",
+      "definition": "​(especially of something unpleasant) likely to happen very soon",
+      "definitionm": "မကြာခင်မှာ ဖြစ်တော့မယ့်သဘောရှိသော (မကောင်းသောအရာ / ကိစ္စအတွက်သုံးသည်)",
+      "example": "The system is in the imminent danger of going awry.",
+      "examplem": "စနစ်ကြီးက တလွဲတချော်တွေ ဖြစ်သွားဖို့ နည်းနည်းပဲလိုတော့တယ်။"
+  },
+  {
+      "id": "inadequate_adj",
+      "word": "inadequate (adj)",
+      "pronunciation": "/ɪnˈædɪkwət/",
+      "level": "C1/C2",
+      "definition": "not good enough; ",
+      "definitionm": "အလုံအလောက်မဟုတ်သော။",
+      "example": "Transport facilities are inadequate in these towns.",
+      "examplem": "ဒီမြို့တွေမှာ ပို့ဆောင်ဆက်သွယ်ရေးက မကောင်းမွန်လှဘူး။"
+  },
+  {
+      "id": "janitor_n",
+      "word": "janitor (n)",
+      "pronunciation": "/ˈdʒænɪtə(r)/",
+      "level": "C1/C2",
+      "definition": "a person employed in a building to do the cleaning and minor repairs",
+      "definitionm": "အဆောက်အအုံကြီးတခုတွင် သန့်ရှင်းရေးနှင့် အသေးစားပြုပြင်စရာများကို တာဝန်ယူရသူ။",
+      "example": "He worked as a janitor at a school before his death.",
+      "examplem": "သူမသေခင် စာသင်ကျောင်းတကျောင်းမှာ ကျောင်းစောင့်သန့်ရှင်းရေးအဖြစ်အလုပ်လုပ်ခဲ့တယ်။"
+  },
+  {
+      "id": "jolly_adj",
+      "word": "jolly (adj)",
+      "pronunciation": "/ˈdʒɒli/",
+      "level": "C1/C2",
+      "definition": "happy and cheerful",
+      "definitionm": "ပျော်ရွှင်မြူးထူးသော။",
+      "example": "He is a happy jolly soul.",
+      "examplem": "သူက ပျော်ပျော်ရွှင်ရွှင် ပေါ့ပေါ့ပါးပါးနေတတ်တဲ့သူတယောက်ဖြစ်တယ်။"
+  },
+  {
+      "id": "justification_n",
+      "word": "justification (n)",
+      "pronunciation": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+      "level": "C1/C2",
+      "definition": "a good reason",
+      "definitionm": "ခိုင်လုံသောကျိုးကြောင်းပြဆိုချက်။",
+      "example": "I need some good justifications to make a sound decision.",
+      "examplem": "ဆုံးဖြတ်ချက်ကောင်းတခုချနိုင်ဖို့ အကျိုးအကြောင်းခိုင်ခိုင်လုံလုံ ကျွန်ုပ်လိုအပ်တယ်။"
+  },
+  {
+      "id": "hospice_n",
+      "word": "hospice (n)",
+      "pronunciation": "/ˈhɒspɪs/",
+      "level": "C1/C2",
+      "definition": "a lodging run by a religious order; a hospital for terminally ill people;",
+      "definitionm": "ဘာသာရေးအဖွဲ့အစည်းတခုခုက ငှားပေးသော တည်းခိုရန်နေရာ။ သေလူများအတွက် ဆေးရုံ။",
+      "example": "The church has run this hospice for decades.",
+      "examplem": "ဘုရားကျောင်းက ဒီလူမှုကယ်ဆယ်ရေးဆေးရုံကို ဖွင့်ပေးခဲ့တာ အနှစ်သုံးလေးငါးဆယ်ရှိပြီ။"
+  },
+  {
+      "id": "kagoul_n",
+      "word": "kagoul (n)",
+      "pronunciation": "/kəˈɡuːl/",
+      "level": "C1/C2",
+      "definition": "(standard spelling => cagoule) lightweight and hooded raincoat;",
+      "definitionm": "ပေါ့ပါးပြီး ခေါင်းစွပ်အဆောင်းပါသော မိုးကာအင်္ကျီ။",
+      "example": "It looks like it is going to rain soon, so bring your umbrella, or at least your cagoule.",
+      "examplem": "မိုးရွာတော့မယ့်ပုံပဲ၊ ထီးယူသွားချေ၊ မဟုတ်လည်း အနည်းဆုံး မိုးကာအင်္ကျီယူသွား။"
+  },
+  {
+      "id": "kin_n",
+      "word": "kin (n)",
+      "pronunciation": "/kɪn/",
+      "level": "C1/C2",
+      "definition": "family and relatives",
+      "definitionm": "မိသားစုနှင့် ဆွေမျိုးများ။",
+      "example": "All his kin are at his wedding.",
+      "examplem": "သူ့အမျိုးအကုန်လုံးက သူ့ မင်္ဂလာဆောင်မှာ။"
+  },
+  {
+      "id": "knockoff_n",
+      "word": "knock-off (n)",
+      "pronunciation": "/ˈnɒk ɒf/",
+      "level": "C1/C2",
+      "definition": "(or knockoff) a cheaper unlicensed copy version of the original, more expensive version",
+      "definitionm": "မူရင်းကုန်ပစ္စည်းအစစ်ထက် စျေးနှိမ့်ရောင်းချရန် ထုတ်လုပ်ထားသော တရားမဝင် ဆင်တူယိုးမှားပစ္စည်း။",
+      "example": "My bag is a cheap knock-off.",
+      "examplem": "ငါ့အိတ်က စျေးပေါတဲ့ အတုပါ။"
+  },
+  {
+      "id": "libel_n",
+      "word": "libel (n)",
+      "pronunciation": "/ˈlaɪbl/",
+      "level": "C1/C2",
+      "definition": "the act of defamation",
+      "definitionm": "အသရေဖျက်ခြင်း။ သိက္ခာချခြင်း။",
+      "example": "The actor sued the magazine for libel.",
+      "examplem": "မင်းသားက မဂ္ဂဇင်းကို အသရေဖျက်မှုနဲ့ တရားစွဲခဲ့တယ်။"
+  },
+  {
+      "id": "linoleum_n",
+      "word": "linoleum (n)",
+      "pronunciation": "/lɪˈnəʊliəm/",
+      "level": "C1/C2",
+      "definition": "a durable floor covering made from natural materials such as solidified linseed oil, cork dust, wood flour, and resins;",
+      "definitionm": "ကြမ်းခင်းဖယောင်းပုဆိုး။",
+      "example": "The floor is covered with light linoleum.",
+      "examplem": "ကြမ်းကို အရောင်ဖျော့ ဖယောင်းပုဆိုးခင်းထားတယ်။"
+  },
+  {
+      "id": "loot_n_v",
+      "word": "loot (v / n)",
+      "pronunciation": "/luːt/",
+      "level": "C1/C2",
+      "definition": "(v) to rob money and valuable objects taken by soldiers from the enemy after winning a battle; (n) anything taken in such a way;",
+      "definitionm": "​စစ်ရှုံးသူများထံမှ စစ်နိုင်သူစစ်သားများက လုယက်သည်။ ထိုသို့ လုယက်သော ပစ္စည်းများ။",
+      "example": "He forbade his army to loot the city.",
+      "examplem": "သူက သူ့ရဲ့ စစ်တပ်အား မြို့ကိုလုယက်ခြင်းမှ တားမြစ်ခဲ့တယ်။"
+  },
+  {
+      "id": "memoir_n",
+      "word": "memoir (n)",
+      "pronunciation": "/ˈmemwɑː(r)/",
+      "level": "C1/C2",
+      "definition": "an account written by somebody about their life and experiences",
+      "definitionm": "ဘဝအတွေ့အကြုံမှတ်တမ်း။",
+      "example": "She wrote a memoir about her life under dictatorship.",
+      "examplem": "အာဏာရှင်လက်အောက်က သူမရဲ့ဘဝအကြောင်းကို သူမက မှတ်တမ်းစာအုပ်ရေးခဲ့တယ်။"
+  },
+  {
+      "id": "mollusc_n",
+      "word": "mollusc (n)",
+      "pronunciation": "/ˈmɒləsk/",
+      "level": "C1/C2",
+      "definition": "any invertebrate with a soft body and often enclosed wholly or partly in a hard shell (e.g. snails, snugs, etc.)",
+      "definitionm": "(ခရု၊ ပက်ကျိကဲ့သို့သော) ကိုယ်ထည်အပျော့ များသောအားဖြင့် အခွံမာရှိသော ကျောရိုးမဲ့သတ္တဝါ။",
+      "example": "This type of mollusc is venomous.",
+      "examplem": "ဒီခရုလိုမျိုးက အဆိပ်ရှိတယ်။"
+  },
+  {
+      "id": "mourn_v",
+      "word": "mourn (v)",
+      "pronunciation": "/mɔːn/",
+      "level": "C1/C2",
+      "definition": "to feel or express sorrow;",
+      "definitionm": "ပူဆွေးကြေကွဲဝမ်းနည်းသည်။",
+      "example": "She is still mourning her late husband.",
+      "examplem": "သူမဟာ ကွယ်လွန်သွားတဲ့ သူမရဲ့ ခင်ပွန်းအတွက် ကြေကွဲဝမ်းနည်းနေဆဲပါ။"
+  },
+  {
+      "id": "niche_n",
+      "word": "niche (n)",
+      "pronunciation": "/niːʃ/ or /nɪtʃ/",
+      "level": "C1/C2",
+      "definition": "an ornamental recess in a wall or the like; a place or position comfortable; a small and distinct section of a market;",
+      "definitionm": "နံရံပေါ်ရှိ ခွက်ထားသောနေရာ။ အခြေတကျ နေရာကောင်း။ သီးသီးသန့်သန့် စျေးကွက်အခွင့်အလမ်းတခု။",
+      "example": "They found a niche in the clothing market.",
+      "examplem": "သူတို့ဟာ အဝတ်အထည်စျေးကွက်မှာ သီးသန့်အခွင့်အလမ်းတခုကို တွေ့ခဲ့ကြတယ်။"
+  },
+  {
+      "id": "notorious_adj",
+      "word": "notorious (adj)",
+      "pronunciation": "/nəʊˈtɔːriəs/",
+      "level": "C1/C2",
+      "definition": "widely and unfavorably known",
+      "definitionm": "နာမည်ဆိုးဖြင့် ကျော်စောသော။",
+      "example": "The city is notorious for frequent robberies.",
+      "examplem": "မြို့တော်ကြီးက ခဏခဏ လုယက်ဓါးပြတိုက်မှုတွေနဲ့ နာမည်ဆိုးတယ်။"
+  },
+  {
+      "id": "nurture_v",
+      "word": "nurture (v)",
+      "pronunciation": "/ˈnɜːtʃə(r)/",
+      "level": "C1/C2",
+      "definition": "to care for; to feed; to bring up; to support;",
+      "definitionm": "ကျွေးမွေးစောင့်ရှောက်သည်။ ပြုစုပျိုးထောင်သည်။",
+      "example": "The new gardener nurtures the garden well.",
+      "examplem": "ဥယျာဥ်မှူးအသစ်ဟာ ဥယျာဥ်ကို ကောင်းကောင်းပြုစုဂရုစိုက်တယ်။"
+  },
+  {
+      "id": "obituary_n",
+      "word": "obituary (n)",
+      "pronunciation": "/əˈbɪtʃuəri/",
+      "level": "C1/C2",
+      "definition": "an article about somebody’s life and achievements, that is printed in a newspaper soon after they have died",
+      "definitionm": "​နာရေးကြော်ငြာ။",
+      "example": "I saw her name in an obituary column.",
+      "examplem": "ကျွန်တော် သူမရဲ့နာမည်ကို နာရေးကြော်ငြာမျက်နှာရဲ့တနေရာမှာ တွေ့လိုက်တယ်။"
+  },
+  {
+      "id": "oligarchy_n",
+      "word": "oligarchy (n)",
+      "pronunciation": "/ˈɒlɪɡɑːki/",
+      "level": "C1/C2",
+      "definition": "government by the few",
+      "definitionm": "လူနည်းစုအုပ်ချုပ်သည့်အစိုးရစနစ်။",
+      "example": "The country is ruled by an oligarchy calling itself a 'democratic government'.",
+      "examplem": "တိုင်းပြည်ကို သူတို့ကိုယ်သူတို့ ဒီမိုကရေစီအစိုးရလို့ ခေါ်ကြတဲ့ လူနည်းစုက အုပ်ချုပ်တယ်။"
+  },
+  {
+      "id": "orchard_n",
+      "word": "orchard (n)",
+      "pronunciation": "/ˈɔːtʃəd/",
+      "level": "C1/C2",
+      "definition": "a piece of land where fruit trees or nut trees are grown",
+      "definitionm": "သစ်သီး၊ အခွံမာသီး စသည်တို့ စိုက်ပျိုးရာ ခြံမြေ။",
+      "example": "The orchards are bearing well this year.",
+      "examplem": "စိုက်ပျိုးရေးခြံတွေက ဒီနှစ် အသီးတွေကောင်းကောင်းဖြစ်ထွန်းတယ်။"
+  },
+  {
+      "id": "pantomime_n",
+      "word": "pantomime (n)",
+      "pronunciation": "/ˈpæntəmaɪm/",
+      "level": "C1/C2",
+      "definition": "a kind of entertainment done through only gestures; a traditional musical entertainment based on a famous story;",
+      "definitionm": "အသံမဲ့ သရုပ်ဆောင်တင်ဆက်မှု။ လူသိများသောဇာတ်လမ်းတခုကို အခြေခံသည့် အဆိုအကဂီတပြဇာတ်။",
+      "example": "He has been in the local pantomime since the year dot.",
+      "examplem": "သူက သူ့အရပ်ဒေသမှာ အသံမဲ့သရုပ်ဆောင်လုပ်လာတာ နှစ်တွေအများကြီး။"
+  },
+  {
+      "id": "pasture_n",
+      "word": "pasture (n)",
+      "pronunciation": "/ˈpɑːstʃə(r)/",
+      "level": "C1/C2",
+      "definition": "a grassland grown for feeding the grazing animals",
+      "definitionm": "စားကျက်မြေ။",
+      "example": "Cows are grazing in the pasture.",
+      "examplem": "နွားမတွေဟာ စားကျက်ထဲ မြက်စားနေကြတယ်။"
+  },
+  {
+      "id": "penurious_adj",
+      "word": "penurious (adj)",
+      "pronunciation": "/pəˈnjʊəriəs/",
+      "level": "C1/C2",
+      "definition": "very poor",
+      "definitionm": "ချွတ်ခြုံကျဆင်းရဲသော။",
+      "example": "The story is about a penurious man becoming a millionaire.",
+      "examplem": "ဇာတ်လမ်းက အင်မတန်ဆင်းရဲတဲ့သူတယောက် မီလျံနာသူဌေးဖြစ်လာတဲ့အကြောင်း။"
+  },
+  {
+      "id": "pillage_n_v",
+      "word": "pillage (v / n)",
+      "pronunciation": "/ˈpɪlɪdʒ/",
+      "level": "C1/C2",
+      "definition": "the act of stealing things using violence",
+      "definitionm": "ရုန်းရင်းဆန်ခတ်ဖြင့် ပစ္စည်းများကို လုယက်ခြင်း၊ ခိုးယူခြင်း။",
+      "example": "In ancient times, it was common for soldiers to pillage cities after battles.",
+      "examplem": "ရှေးခေတ်ကတော့ စစ်ဖြစ်ပြီးတဲ့အခါ စစ်သားတွေက ပစ္စည်းကိုလုယက်တာ ဖြစ်နေကျပဲ။"
+  },
+  {
+      "id": "poultry_n",
+      "word": "poultry (n)",
+      "pronunciation": "/ˈpəʊltri/",
+      "level": "C1/C2",
+      "definition": "domesticated fowl collectively, especially those valued for their meat and eggs, as chickens, ducks, etc.",
+      "definitionm": "အသားနှင့် ဥစားရန် မွေးမြူသော ကြက်ငှက်သတ္တဝါများ။",
+      "example": "The farmer works on the farm and also raises poultry.",
+      "examplem": "လယ်သမားက လယ်ယာကိုလုပ်ကိုင်သလို ကြက်၊ ဘဲစတာတွေလည်း မွေးမြူတယ်။"
+  },
+  {
+      "id": "queasy_adj",
+      "word": "queasy (adj)",
+      "pronunciation": "/ˈkwiːzi/",
+      "level": "C1/C2",
+      "definition": "feeling sick; wanting to vomit; nauseous;",
+      "definitionm": "နေမကောင်းဖြစ်သော။အန်ချင်သော။",
+      "example": "I feel queasy after the meal.",
+      "examplem": "ထမင်းစားပြီးကတည်းက နေမကောင်းပြီးအန်ချင်သလို ဖြစ်နေတယ်။"
+  },
+  {
+      "id": "quench_v",
+      "word": "quench (v)",
+      "pronunciation": "/kwentʃ/",
+      "level": "C1/C2",
+      "definition": "to satisfy a thirst or any similar desire; to extinguish; to destroy or subdue;",
+      "definitionm": "(ရေ စသည့်) ငတ်မွတ်ခြင်းကို ပြေပျောက်စေသည်။ (မီး) ငြိမ်းသတ်သည်။ ဖျက်ဆီးနှိမ်နင်းသည်။",
+      "example": "The beer will quench your thirst.",
+      "examplem": "ဘီယာက ခင်ဗျားကို ရေငတ်ပြေစေလိမ့်မယ်။"
+  },
+  {
+      "id": "quest_n",
+      "word": "quest (n)",
+      "pronunciation": "/kwest/",
+      "level": "C1/C2",
+      "definition": "a search or pursuit;",
+      "definitionm": "ရှာပုံတော်။",
+      "example": "The quest for superiority will never end, but the quest for happiness will. ",
+      "examplem": "သူတကာထက်သာလွန်မှုကို ရှာဖွေတာဟာ အဆုံးမရှိနိုင်ဘူး၊ ပျော်ရွှင်ခြင်းကို ရှာဖွေခြင်းကတော့ ဖြစ်နိုင်တယ်။"
+  },
+  {
+      "id": "relapse_n_v",
+      "word": "relapse (v / n)",
+      "pronunciation": "/ˈriːlæps/",
+      "level": "C1/C2",
+      "definition": "to fall back into a former state, practice, etc.; to fall back into illness after convalescence or apparent recovery;",
+      "definitionm": "ဒုံရင်းအနေအထားသို့ ပြန်ရောက်သည်။ ရောဂါသက်သာလာပြီးမှ ပြန်ဖြစ်သည်။",
+      "example": "She passed away after the relapse.",
+      "examplem": "ရောဂါကို နောက်တကြိမ်ခံစားရပြီးနောက်မှာတော့ သူမကွယ်လွန်ခဲ့တယ်။"
+  },
+  {
+      "id": "reptilan_adj",
+      "word": "reptilian (adj)",
+      "pronunciation": "/repˈtɪliən/",
+      "level": "C1/C2",
+      "definition": "pertaining to or belonging to reptiles; connected with or typical of reptiles;",
+      "definitionm": "တွားသွားသတ္တဝါနှင့်သက်ဆိုင်သော။ တွားသွားသတ္တဝါကဲ့သို့သော။",
+      "example": "He licks his lips in a reptilian way.",
+      "examplem": "သူဟာ ကင်းလိပ်ချောလိုမျိုးတွားသွားသတ္တဝါတကောင်ပမာ နှုတ်ခမ်းတွေကို လျှာနဲ့သပ်တယ်။"
+  },
+  {
+      "id": "resurrect_v",
+      "word": "resurrect (v)",
+      "pronunciation": "/ˌrezəˈrekt/",
+      "level": "C1/C2",
+      "definition": "to bring something (belief, practice, etc.) disappeared or forgotten back into use; to bring a dead person back to life;",
+      "definitionm": "ပြန်လည်ထုတ်ဖော်သည်။ လူသေကို အသက်ပြန်သွင်းသည်။",
+      "example": "There is no medicine which can resurrect the dead.",
+      "examplem": "လူသေကို အသက်ပြန်သွင်းနိုင်တဲ့ဆေးရယ်လို မရှိ။"
+  },
+  {
+      "id": "rivulet_n",
+      "word": "rivulet (n)",
+      "pronunciation": "/ˈrɪvjələt/",
+      "level": "C1/C2",
+      "definition": "a small river; a small stream of any liquid;",
+      "definitionm": "မြစ်ချောင်းငယ်။ အရည်စီးကြောင်း။",
+      "example": "Rivulets of sweat run down his forehead.",
+      "examplem": "သူ့နဖူးမှာ ချွေးတွေစီးကျနေတယ်။"
+  },
+  {
+      "id": "shamble_v",
+      "word": "shamble (v)",
+      "pronunciation": "/ˈʃæmbl/",
+      "level": "C1/C2",
+      "definition": "(verb) to walk with awkwardness or difficulty; shambles => noun - slaughterhouse; any scene of destruction;",
+      "definitionm": "ချိချိနဲ့နဲ့ လမ်းလျှောက်သည်။ shambles => သားသတ်ရုံ။ အပျက်အစီးမြင်ကွင်း။",
+      "example": "The tired and old man shambles slowly along the way.",
+      "examplem": "အိုမင်းပြီး ပင်ပန်းနေတဲ့အဖိုးအိုဟာ လမ်းကလေးအတိုင်း ချိနဲ့တုန်ယင်စွာ လျှောက်သွားတယ်။"
+  },
+  {
+      "id": "solitary_adj",
+      "word": "solitary (adj)",
+      "pronunciation": "/ˈsɒlətri/",
+      "level": "C1/C2",
+      "definition": "being without companion; being the only one;",
+      "definitionm": "အထီးတည်း ရှိနေသော။",
+      "example": "William Wordsworth wrote a poem titled 'The Solitary Reaper'.",
+      "examplem": "ဝီလျံဝါ့ဒ်စ်ဝါ့သ်ဟာ 'တယောက်တည်းကောက်ရိတ်သူ'ဆိုတဲ့ ကဗျာကို ရေးခဲ့တယ်။"
+  },
+  {
+      "id": "stoop_v",
+      "word": "stoop (v)",
+      "pronunciation": "/stuːp/",
+      "level": "C1/C2",
+      "definition": "to bend the body forward and downward; to descend from one's level of dignity; ",
+      "definitionm": "ငုံလျှိုးသည်။ ကိုင်းသည်။ ကုန်းသည်။ အောက်တန်းကျစွာ ပြုမူသည်။ ",
+      "example": "I didn't expect him to stoop this low.",
+      "examplem": "ငါ သူ့ကို ဒီလောက်ဆိုးဝါးနိမ့်ကျစွာ ပြုမူမယ်လို့ မထင်ထားခဲ့ဘူး။"
+  },
+  {
+      "id": "subsidiary_adj",
+      "word": "subsidiary (adj)",
+      "pronunciation": "/səbˈsɪdiəri/",
+      "level": "C1/C2",
+      "definition": "auxiliary; supplementary; subordinate or secondary;",
+      "definitionm": "အကူအပံ့သဘောဖြစ်သော။ လက်အောက်ခံဖြစ်သော။",
+      "example": "After being acquired, the company became a subsidiary.",
+      "examplem": "အဝယ်ခံလိုက်ရပြီးတဲ့နောက်မှာ ကုမ္ပဏီဟာ လက်အောက်ခံလုပ်ငန်းခွဲတခုဖြစ်သွားခဲ့တယ်။"
+  },
+  {
+      "id": "subsidy_n",
+      "word": "subsidy (n)",
+      "pronunciation": "/ˈsʌbsədi/",
+      "level": "C1/C2",
+      "definition": "a financial aid given by a government",
+      "definitionm": " အမတော်ငွေ။ အစိုးရထောက်ပံ့ငွေ။",
+      "example": "The books are cheaper thanks to the subsidy.",
+      "examplem": "အစိုးရထောက်ပံ့ကြေးကြောင့် စာအုပ်တွေဟာ ဈေးပိုချိုသွားတယ်။"
+  },
+  {
+      "id": "svelte_adj",
+      "word": "svelte (adj)",
+      "pronunciation": "/svelt/ or /sfelt/",
+      "level": "C1/C2",
+      "definition": "thin and elegant",
+      "definitionm": "သွယ်လျလှပကျော့ရှင်းသော။",
+      "example": "The actress is too svelte to act as a strong and healthy country bumpkin.",
+      "examplem": "မင်းသမီးဟာ ကျန်းမာသန်စွမ်းတဲ့ ရွာသူ ရိုးရိုးကြီးအနေနဲ့ သရုပ်ဆောင်ဖို့ကျတော့ သွယ်လျကျော့ရှင်းလွန်းတယ်။"
+  },
+  {
+      "id": "tabby_n",
+      "word": "tabby (n)",
+      "pronunciation": "/ˈtæbi/",
+      "level": "C1/C2",
+      "definition": "a cat with brown or grey fur marked with dark lines or spots",
+      "definitionm": "ကြောင်အညိုအမှိုင်းအပြောက်အကျား။ ကြောင်အညိုအမှိုင်းအကျား။",
+      "example": "She is a tabby, but all four of her children are ginger.",
+      "examplem": "ကြောင်မကြီးက အညိုကျားပဲ ဒါပေမယ့် သူ့ကလေး ၄ကောင်လုံးကျတော့ အဝါလေးတွေ။"
+  },
+  {
+      "id": "taunt_v",
+      "word": "taunt (v)",
+      "pronunciation": "/tɔːnt/",
+      "level": "C1/C2",
+      "definition": "to reproach in a sarcastic or insulting manner; to mock;",
+      "definitionm": "မခံချင်အောင် အပြစ်တင်ရှုံ့ချသည်။ လှောင်ပြောင်သည်။",
+      "example": "Just ignore them. They are just trying to taunt you.",
+      "examplem": "သူတို့ကို လျစ်လျူရှုထားလိုက်။ မင်းကို သက်သက်ရန်စနေတာ။"
+  },
+  {
+      "id": "tolerate_v",
+      "word": "tolerate (v)",
+      "pronunciation": "/ˈtɒləreɪt/",
+      "level": "C1/C2",
+      "definition": "to allow an act or an existence that you do not agree or like",
+      "definitionm": "သည်းညည်းခံသည်။",
+      "example": "I have to try my best to tolerate the heat.",
+      "examplem": "အပူဒဏ်ကို သည်းညည်းခံဖို့ တတ်နိုင်သမျှကြိုးစားရတော့တာပဲ။"
+  },
+  {
+      "id": "turbulent_adj",
+      "word": "turbulent (adj)",
+      "pronunciation": "/ˈtɜːbjələnt/",
+      "level": "C1/C2",
+      "definition": "being in a state of agitation or tumult",
+      "definitionm": "ရှုပ်ထွေးလှုပ်ရှားသော။ (လှိုင်း/လေ)ထန်သော။",
+      "example": "The aeroplane is going through turbulent weather.",
+      "examplem": "လေယာဥ်ပျံဟာ ပြင်းထန်တဲ့ရာသီဥတုကို ဖြတ်သန်းနေရတယ်။"
+  },
+  {
+      "id": "underlying_adj",
+      "word": "underlying (adj)",
+      "pronunciation": "/ˌʌndəˈlaɪɪŋ/",
+      "level": "C1/C2",
+      "definition": "lying or situated beneath; fundamental; ",
+      "definitionm": "အမှန်တကယ် အရင်းခံသဘောဖြစ်သော။ အခြေခံအဓိကဖြစ်သော။",
+      "example": "Seasoned readers can sense underlying misogyny in his writings.",
+      "examplem": "စာဖတ်နာသူတွေအနေနဲ့ သူ့စာတွေထဲမှာ မြုပ်ပါနေတဲ့ အမျိုးသမီးမုန်းတီးအထင်သေးမှု သိနိုင်ပါတယ်။"
+  },
+  {
+      "id": "unkempt_adj",
+      "word": "unkempt (adj)",
+      "pronunciation": "/ˌʌnˈkempt/",
+      "level": "C1/C2",
+      "definition": "not combed; uncared-for; disshelved;",
+      "definitionm": "ဆံပင်မဖြီးမသင်ထားသော။ မသေမသပ် မပြုမပြင်ဖြစ်သော။",
+      "example": "Since it is still in the wee hours, she looks very unkempt.",
+      "examplem": "မနက်တကယ့်အစောကြီးဆိုတော့ သူမဟာ မသေမသပ်မပြုမပြင်ပုံဖြစ်နေတယ်။"
+  },
+  {
+      "id": "usher_n",
+      "word": "usher (n)",
+      "pronunciation": "/ˈʌʃə(r)/",
+      "level": "C1/C2",
+      "definition": "a person who escorts people to seats in an event",
+      "definitionm": "ကြိုဆိုဧည့်ခံရေးသမား။",
+      "example": "Before he became a singer, he worked as an usher in this restaurant.",
+      "examplem": "သူအဆိုတော် မဖြစ်ခင်တုန်းက ဒီစားသောက်ဆိုင်မှာ ဧည့်ကြိုလုပ်ခဲ့တယ်။"
+  },
+  {
+      "id": "vestibule_n",
+      "word": "vestibule (n)",
+      "pronunciation": "/ˈvestɪbjuːl/",
+      "level": "C1/C2",
+      "definition": "an entrance hall of a large building; an enclosed entrance at the end of a railway passenger car;",
+      "definitionm": "အိမ်ကြီးကန္နားကြီးများတွင် ရှိတတ်သော အိမ်အဝင်တံခါးနဲ့ အိမ်မကြီးကြားက အခန်းကျယ်။ မီးရထားတွဲကူးနေရာ။ ",
+      "example": "The train is so crowded that even the vestibules are blocked.",
+      "examplem": "ရထားက လူများလွန်းတော့ တွဲကူးနေရာတွေကပါ ကျပ်ပိတ်နေတယ်။"
+  },
+  {
+      "id": "viable_adj",
+      "word": "viable (adj)",
+      "pronunciation": "/ˈvaɪəbl/",
+      "level": "C1/C2",
+      "definition": "having the ability to grow or develop; workable; usable;",
+      "definitionm": "တိုးတက်ဖြစ်ထွန်းနိုင်စွမ်းရှိသော။ သုံးလို့ရသော။ ",
+      "example": "MVP is an acronym for 'minimum viable product'.",
+      "examplem": "MVP ဆိုတာ 'minimum viable product'  (သုံးလို့ရနိုင်သော အနိမ့်ဆုံးအနေအထား ထုတ်ကုန်)ရဲ့ အတိုကောက်ဖြစ်တယ်။"
+  },
+  {
+      "id": "vulture_n",
+      "word": "vulture (n)",
+      "pronunciation": "/ˈvʌltʃə(r)/",
+      "level": "C1/C2",
+      "definition": "a large bird, usually with no feather on its head or neck, that eats dead animals",
+      "definitionm": "လင်းတငှက်။",
+      "example": "A vulture is resting on the charnel ground.",
+      "examplem": "လင်းတငှက်တကောင်ဟာ တစပြင်မှာ နားနေတယ်။"
+  },
+  {
+      "id": "weasel_n",
+      "word": "weasel (n)",
+      "pronunciation": "/ˈwiːzl/",
+      "level": "C1/C2",
+      "definition": "a small wild animal with red-brown fur, a long thin body, and short legs; a sneaky person;",
+      "definitionm": "အမွေးနီညို၊ ကိုယ်လုံးရှည်ရှည်၊ ခြေလက်အမြီးတိုသော မြွေပါနှင့်ဆင်သည့် တိရစ္ဆာန်တမျိုး။ ခိုးကြောင်ခိုးဝှက် ပုံစံမမှန်သူ။",
+      "example": "Two weasels ran into the rabbit warren.",
+      "examplem": "မြွေပါမြီးတိုလေးနှစ်ကောင်ဟာ ယုန်ဝပ်ကျင်းထဲကို ဝင်ပြေးသွားတယ်။"
+  },
+  {
+      "id": "weir_n",
+      "word": "weir (n)",
+      "pronunciation": "/wɪə(r)/",
+      "level": "C1/C2",
+      "definition": "a small dam",
+      "definitionm": "ရေကာတာအငယ်စား။",
+      "example": "The agriculture of this village depends on the weir.",
+      "examplem": "ဒီရွာရဲ့ စိုက်ပျိုးရေးဟာ ဒီရေကာတာလေးပေါ်မှာ တည်မှီနေတယ်။"
+  },
+  {
+      "id": "whard_n",
+      "word": "wharf (n)",
+      "pronunciation": "/wɔːf/",
+      "level": "C1/C2",
+      "definition": "quay; pier;",
+      "definitionm": "ဆိပ်ခံတံတား။",
+      "example": "My hometown is an island with many quays, wharfs, and jetties.",
+      "examplem": "ကျွန်တော်ရဲ့ ဇာတိမြို့ဟာ သင်္ဘောဆိပ်တွေ၊ ဆိပ်ခံဗောတံတားတွေ၊ လှေဆိပ်တွေအများကြီးရှိတဲ့ ကျွန်းကလေးဖြစ်ပါတယ်။"
+  },
+  {
+      "id": "wink_v",
+      "word": "wink (v)",
+      "pronunciation": "/wɪŋk/",
+      "level": "C1/C2",
+      "definition": "to close and open one eye quickly to give a hint or signal",
+      "definitionm": "မျက်စိတဖက်မှိတ်ပြသည်။",
+      "example": "She winks at him and he feels elated.",
+      "examplem": "သူမက မျက်စိတဖက်မှိတ်ပြလိုက်တဲ့အခါ သူအရမ်းကျေနပ်ပျော်ရွှင်သွားတယ်။"
+  },
+  {
+      "id": "xenophobia_n",
+      "word": "xenophobia (n)",
+      "pronunciation": "/ˌzenəˈfəʊbiə/",
+      "level": "C1/C2",
+      "definition": "a strong dislike or fear towards foreigners",
+      "definitionm": "နိုင်ငံခြားသားများကို မုန်းခြင်း သို့မဟုတ် ကြောက်ခြင်း။",
+      "example": "It is a remote island and all the inhabitants have xenophobia.",
+      "examplem": "လူသူမနီးနဲ့ ကျွန်းကလေးဖြစ်ပြီး ကျွန်နေလူတွေအားလုံးကလည်း သူစိမ်းကို ရွံကြောက်ကြတယ်။"
+  },
+  {
+      "id": "xylophone_n",
+      "word": "xylophone (n)",
+      "pronunciation": "/ˈzaɪləfəʊn/",
+      "level": "C1/C2",
+      "definition": "a musical instrument made of one or two rows of wooden bars of different lengths that you hit with two small sticks;",
+      "definitionm": "ပတ္တလားတူရိယာ။",
+      "example": "Xylophone is assumed to have originated from southeast Asia.",
+      "examplem": "ပတ္တလားဟာ အရှေ့တောင်အာရှဘက်ကလာတာလို့ ယူဆကြတယ်။"
+  },
+  {
+      "id": "yeoman_n",
+      "word": "yeoman (n)",
+      "pronunciation": "/ˈjəʊmən/",
+      "level": "C1/C2",
+      "definition": "a farmer who cultivates his own land; a petty navy officer; an attendant in a noble household;",
+      "definitionm": "ကိုယ်ပိုင်လယ်မြေထွန်ယက်လုပ်ကိုင်သူ။ ရေတပ်အရာရှိငယ်။ အထက်တန်းလွှာမိသားစုတခု၏ အခြွေအရံဝန်ထမ်း။",
+      "example": "In this historical novel, Robin Hood is a yeoman, not an aristocrat. ",
+      "examplem": "ဒီသမိုင်းနောက်ခံ ဝတ္ထုမှာ ရော်ဘင်ဟုဒ်ဟာ မင်းစိုးရာဇာမဟုတ်ဘူး၊ လယ်သမားတဦးဖြစ်တယ်။"
+  },
+  {
+      "id": "yesman_n",
+      "word": "yes-man (n)",
+      "pronunciation": "/ˈjes mæn/",
+      "level": "C1/C2",
+      "definition": "a person who always expresses agreement with their superior",
+      "definitionm": "အထက်လူကြီးပြောသမျှ ခေါင်းငြိမ့်တတ်သူ။ ဟုတ်ပါ့မှန်ပါ့သမား။",
+      "example": "I need an advisor, not a yes-man.",
+      "examplem": "ငါ အကြံပေးတယောက်လိုအပ်တာ၊ ပြောသမျှ ခေါင်းညိတ်ထောက်ခံမယ့်သူလိုတာ မဟုတ်ဘူး။"
+  },
+  {
+      "id": "yield_v",
+      "word": "yield (v / n)",
+      "pronunciation": "/jiːld/",
+      "level": "C1/C2",
+      "definition": "verb - to produce; to give up; noun - something yielded;",
+      "definitionm": "(ကြိယာ) ဖြစ်ထွန်းထွက်ရှိသည်။ လက်လျှော့အရှုံးပေးသည်။ (နာမ်) ဖြစ်ထွန်းထွက်ရှိသောအရာ။",
+      "example": "Reading yields not just wisdon but also empathy.",
+      "examplem": "စာဖတ်ခြင်းဟာ အသိဥာဏ်ပညာသာမက စာနာနားလည်တတ်ခြင်းကိုပါ ပေးတယ်။"
+  },
+  {
+      "id": "zeitgeist_n",
+      "word": "zeitgeist (n)",
+      "pronunciation": "/ˈzaɪtɡaɪst/",
+      "level": "C1/C2",
+      "definition": "the general trend of thought, feeling, or tastes characteristic of a particular period of time;",
+      "definitionm": "ခေတ်ကာလတခု၌ ရှိခဲ့သော အတွေးအခေါ်၊ ခံစားချက်၊ အကြိုက် စသည်။",
+      "example": "Rock and Roll was a part of the zeitgeist of the mid-20th century.",
+      "examplem": "ရော့ခ်အင်ရိုးလ်ဂီတဟာ နှစ်ဆယ်ရာစုအလယ်ပိုင်း ယဥ်ကျေးမှုအတွေးအခေါ်ရဲ့ တစိတ်တဒေသဖြစ်တယ်။"
+  },
+  {
+      "id": "zippy_adj",
+      "word": "zippy (adj)",
+      "pronunciation": "/ˈzɪpi/",
+      "level": "C1/C2",
+      "definition": "able to move very quickly; lively;",
+      "definitionm": "သွက်လက်သော။ ဖျတ်လတ်သော။",
+      "example": "I told you to be zippy, not fidgety.",
+      "examplem": "ငါမင်းကို ပြောခဲ့တာက သွက်သွက်လက်လက်ရှိဖို့၊ ဂဏာမငြိမ်ဖို့ ပြောတမဟုတ်ဘူး။"
+  },
+  {
+      "id": "zodiac_n",
+      "word": "zodiac (n)",
+      "pronunciation": "/ˈzəʊdiæk/",
+      "level": "C1/C2",
+      "definition": "the imaginary area in the sky in which the sun, moon and planets appear to lie",
+      "definitionm": "စိတ်ကူးဖြင့်မှန်းဆွဲသော ကောင်းကင်ပေါ်ရှိ ၁၂ရာသီခွင်။",
+      "example": "Can a zodiac symbol really represent a man?",
+      "examplem": "ရာသီခွင်သင်္ကတတခုဟာ လူတယောက်ကို တကယ် ကိုယ်စားပြုနိုင်ပါ့မလား။"
+  }
+]
